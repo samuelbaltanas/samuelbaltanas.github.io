@@ -5,7 +5,7 @@
 title: Home
 layout: page
 permalink: /
-priority: 1.0
+order: 1
 ---
 
 Sample
